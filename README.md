@@ -1,7 +1,10 @@
 # cekKesehatan
-(src/cekKesehatan/LAKI.PNG)
+[alt text](src/cekkesehatan/LAKI.PNG)
+##ini adalah tampilan setelah menisi biodata jenis kelamin Laki-laki kemudian menekan proses
 #
-(src/cekKesehatan/PEREMPUAN.PNG)
+[alt text](src/cekkesehatan/PEREMPUAN.PNG)
+##ini adalah tampilan setelah menisi biodata jenis kelamin Laki-laki kemudian menekan proses
 #
-(src/cekKesehatan/RESET.PNG)
+[alt text](src/cekkesehatan/RESET.PNG)
+##ini adalah tampilan ketika stetelah menekan reset, maka akan tampil seperti halaman awal
 #
