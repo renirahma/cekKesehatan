@@ -1,7 +1,7 @@
 # cekKesehatan
-(src/cekkesehatan/LAKI.PNG)
+(src/cekKesehatan/LAKI.PNG)
 #
-(src/cekkesehatan/PEREMPUAN.PNG)
+(src/cekKesehatan/PEREMPUAN.PNG)
 #
-(src/cekkesehatan/RESET.PNG)
+(src/cekKesehatan/RESET.PNG)
 #
